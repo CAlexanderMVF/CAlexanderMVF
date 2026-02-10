@@ -1,9 +1,7 @@
 ## Hi there 👋
 Hi, my name is Chris. My professional interests are in the computational sciences and scientific computing. I am interested in the use of computation in the engineering and applied sciences.
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CAlexanderMVF&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=CAlexanderMVF&theme=tokyonight)](https://git.io/streak-stats)
 
 ## Languages
 Some of the languages I use or am familiar with are:
@@ -24,6 +22,10 @@ In addition to the previous sections, I also employ additional tools to support 
 I have been fortunate to have been able to work on the three major operating systems. My personal preference is Debian.
 
 [![OS](https://skillicons.dev/icons?i=apple,debian,windows)](https://skillicons.dev)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CAlexanderMVF&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=CAlexanderMVF&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CAlexanderMVF&color=blueviolet&style=flat-square)
 
