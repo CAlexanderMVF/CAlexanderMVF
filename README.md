@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 Hi, my name is Chris. My professional interests are in the computational sciences and scientific computing. I am interested in the use of computation in the engineering and applied sciences.
 
 ## Languages
@@ -11,12 +11,12 @@ I am an avid user of both NeoVim, as well as VisualStudio and IntelliJ Idea, and
 
 [![Development](https://skillicons.dev/icons?i=clion,emacs,idea,neovim,pycharm,visualstudio,vscode)](https://skillicons.dev)
 
-# Additional Tooling
+## Additional Tooling
 In addition to the previous sections, I also employ additional tools to support my work.
 
 [![Others](https://skillicons.dev/icons?i=docker,git,github,md,obsidian,stackoverflow)](https://skillicons.dev)
 
-# Operating Systems
+## Operating Systems
 I have been fortunate to have been able to work on the three major operating systems. My personal preference is Debian.
 
 [![OS](https://skillicons.dev/icons?i=apple,debian,windows)](https://skillicons.dev)
