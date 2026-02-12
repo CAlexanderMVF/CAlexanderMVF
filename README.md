@@ -17,7 +17,7 @@ In addition to the previous sections, I also employ additional tools to support 
 [![Others](https://skillicons.dev/icons?i=docker,git,github,md,obsidian,stackoverflow)](https://skillicons.dev)
 
 ## Operating Systems
-I have been fortunate to have been able to work on the three major operating systems. My personal preference is Debian.
+I have been fortunate to have access to and develop on the three major operating systems. My personal preference is Debian.
 
 [![OS](https://skillicons.dev/icons?i=apple,debian,windows)](https://skillicons.dev)
 
