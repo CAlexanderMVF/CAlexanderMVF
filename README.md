@@ -1,4 +1,4 @@
-# Hi there
+# Hi
 Hi, my name is Chris. My professional interests are in the computational sciences and scientific computing. I am interested in the use of computation in the engineering and applied sciences.
 
 ## Languages
